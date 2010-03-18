@@ -35,7 +35,7 @@ Q: What shortcode attributes are supported?
 A: id (mandatory), width, height, text
 
 Q: Can you give me an example?
-A: Yes: [googleform key="abcdef" heigth="600" width="500" text="Moment please"]
+A: Yes: [googleform key="abcdef" height="600" width="500" text="Moment please"]
 
 Q: How do I find the right Key?
 A: From the URL Google creates. It's in the form of
