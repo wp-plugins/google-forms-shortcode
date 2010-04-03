@@ -3,7 +3,7 @@ Contributors: zjuul
 Tags: google, forms, google forms, shortcode, iframe
 Requires at least: 2.8
 Tested up to: 2.9.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 This plugin adds the possibility to easily insert forms created by Google
 docs into pages and posts using a shortcode.
@@ -28,6 +28,16 @@ The following options are supported:
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Optionally set the default behaviour (width, height, etc)
 1. Insert a code like [googleform key="abcdef"] in a post or page and you're set.
+
+== Changelog ==
+
+= 1.0.1 =
+* changed some typos in the documentation
+* added changelog
+* added plugin uri
+
+= 1.0 =
+* first release
 
 == Frequently Asked Questions ==
 

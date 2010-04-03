@@ -3,8 +3,9 @@
 Plugin Name: Google forms shortcode
 Description: This plugin makes it simple to embed Google forms iframes to posts and pages
 Author: Jules Stuifbergen
-Version: 1.0
+Version: 1.0.1
 Author URI: http://forwardslash.nl/
+Plugin URI: http://forwardslash.nl/google-forms-shortcode-wordpress-plugin/
 License: GPL
 */
 
